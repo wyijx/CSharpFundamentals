@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\Code\CoderCamps\ReverseWords\bin\Debug\ReverseWords.exe.config
+\\Mac\Home\Documents\Code\CoderCamps\ReverseWords\bin\Debug\ReverseWords.exe
+\\Mac\Home\Documents\Code\CoderCamps\ReverseWords\bin\Debug\ReverseWords.pdb
+\\Mac\Home\Documents\Code\CoderCamps\ReverseWords\obj\Debug\ReverseWords.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Code\CoderCamps\ReverseWords\obj\Debug\ReverseWords.exe
+\\Mac\Home\Documents\Code\CoderCamps\ReverseWords\obj\Debug\ReverseWords.pdb

@@ -1,0 +1,5 @@
+\\Mac\Home\Documents\Code\CoderCamps\ArraysInCSharp\bin\Debug\ArraysInCSharp.exe.config
+\\Mac\Home\Documents\Code\CoderCamps\ArraysInCSharp\bin\Debug\ArraysInCSharp.exe
+\\Mac\Home\Documents\Code\CoderCamps\ArraysInCSharp\bin\Debug\ArraysInCSharp.pdb
+\\Mac\Home\Documents\Code\CoderCamps\ArraysInCSharp\obj\Debug\ArraysInCSharp.exe
+\\Mac\Home\Documents\Code\CoderCamps\ArraysInCSharp\obj\Debug\ArraysInCSharp.pdb

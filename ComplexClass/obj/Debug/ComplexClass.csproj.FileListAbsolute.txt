@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\Code\CoderCamps\ComplexClass\bin\Debug\ComplexClass.exe.config
+\\Mac\Home\Documents\Code\CoderCamps\ComplexClass\bin\Debug\ComplexClass.exe
+\\Mac\Home\Documents\Code\CoderCamps\ComplexClass\bin\Debug\ComplexClass.pdb
+\\Mac\Home\Documents\Code\CoderCamps\ComplexClass\obj\Debug\ComplexClass.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Code\CoderCamps\ComplexClass\obj\Debug\ComplexClass.exe
+\\Mac\Home\Documents\Code\CoderCamps\ComplexClass\obj\Debug\ComplexClass.pdb

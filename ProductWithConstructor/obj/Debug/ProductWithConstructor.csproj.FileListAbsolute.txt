@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\Code\CoderCamps\ProductWithConstructor\bin\Debug\ProductWithConstructor.exe.config
+\\Mac\Home\Documents\Code\CoderCamps\ProductWithConstructor\bin\Debug\ProductWithConstructor.exe
+\\Mac\Home\Documents\Code\CoderCamps\ProductWithConstructor\bin\Debug\ProductWithConstructor.pdb
+\\Mac\Home\Documents\Code\CoderCamps\ProductWithConstructor\obj\Debug\ProductWithConstructor.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Code\CoderCamps\ProductWithConstructor\obj\Debug\ProductWithConstructor.exe
+\\Mac\Home\Documents\Code\CoderCamps\ProductWithConstructor\obj\Debug\ProductWithConstructor.pdb

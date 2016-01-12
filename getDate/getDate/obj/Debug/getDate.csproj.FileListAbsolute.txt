@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\Code\CoderCamps\getDate\getDate\bin\Debug\getDate.exe.config
+\\Mac\Home\Documents\Code\CoderCamps\getDate\getDate\bin\Debug\getDate.exe
+\\Mac\Home\Documents\Code\CoderCamps\getDate\getDate\bin\Debug\getDate.pdb
+\\Mac\Home\Documents\Code\CoderCamps\getDate\getDate\obj\Debug\getDate.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Code\CoderCamps\getDate\getDate\obj\Debug\getDate.exe
+\\Mac\Home\Documents\Code\CoderCamps\getDate\getDate\obj\Debug\getDate.pdb

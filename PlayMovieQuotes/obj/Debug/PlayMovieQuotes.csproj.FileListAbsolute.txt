@@ -1,0 +1,12 @@
+\\Mac\Home\Documents\Code\CoderCamps\PlayMovieQuotes\bin\Debug\PlayMovieQuotes.exe.config
+\\Mac\Home\Documents\Code\CoderCamps\PlayMovieQuotes\bin\Debug\PlayMovieQuotes.exe
+\\Mac\Home\Documents\Code\CoderCamps\PlayMovieQuotes\bin\Debug\PlayMovieQuotes.pdb
+\\Mac\Home\Documents\Code\CoderCamps\PlayMovieQuotes\obj\Debug\PlayMovieQuotes.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Code\CoderCamps\PlayMovieQuotes\obj\Debug\PlayMovieQuotes.exe
+\\Mac\Home\Documents\Code\CoderCamps\PlayMovieQuotes\obj\Debug\PlayMovieQuotes.pdb
+Y:\Documents\Code\CoderCamps\PlayMovieQuotes\bin\Debug\PlayMovieQuotes.exe.config
+Y:\Documents\Code\CoderCamps\PlayMovieQuotes\obj\Debug\PlayMovieQuotes.exe
+Y:\Documents\Code\CoderCamps\PlayMovieQuotes\obj\Debug\PlayMovieQuotes.pdb
+Y:\Documents\Code\CoderCamps\PlayMovieQuotes\bin\Debug\PlayMovieQuotes.exe
+Y:\Documents\Code\CoderCamps\PlayMovieQuotes\bin\Debug\PlayMovieQuotes.pdb
+Y:\Documents\Code\CoderCamps\PlayMovieQuotes\obj\Debug\PlayMovieQuotes.csprojResolveAssemblyReference.cache

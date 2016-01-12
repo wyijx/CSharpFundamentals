@@ -1,0 +1,5 @@
+\\Mac\Home\Documents\Code\CoderCamps\DivisibleBySeven\bin\Debug\DivisibleBySeven.exe.config
+\\Mac\Home\Documents\Code\CoderCamps\DivisibleBySeven\bin\Debug\DivisibleBySeven.exe
+\\Mac\Home\Documents\Code\CoderCamps\DivisibleBySeven\bin\Debug\DivisibleBySeven.pdb
+\\Mac\Home\Documents\Code\CoderCamps\DivisibleBySeven\obj\Debug\DivisibleBySeven.exe
+\\Mac\Home\Documents\Code\CoderCamps\DivisibleBySeven\obj\Debug\DivisibleBySeven.pdb

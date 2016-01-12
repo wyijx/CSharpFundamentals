@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\Code\CoderCamps\CS-ConsoleApp\CS-ConsoleApp\bin\Debug\CS-ConsoleApp.exe.config
+\\Mac\Home\Documents\Code\CoderCamps\CS-ConsoleApp\CS-ConsoleApp\bin\Debug\CS-ConsoleApp.exe
+\\Mac\Home\Documents\Code\CoderCamps\CS-ConsoleApp\CS-ConsoleApp\bin\Debug\CS-ConsoleApp.pdb
+\\Mac\Home\Documents\Code\CoderCamps\CS-ConsoleApp\CS-ConsoleApp\obj\Debug\CS-ConsoleApp.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Code\CoderCamps\CS-ConsoleApp\CS-ConsoleApp\obj\Debug\CS-ConsoleApp.exe
+\\Mac\Home\Documents\Code\CoderCamps\CS-ConsoleApp\CS-ConsoleApp\obj\Debug\CS-ConsoleApp.pdb

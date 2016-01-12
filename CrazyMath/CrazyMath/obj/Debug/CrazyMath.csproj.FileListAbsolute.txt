@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\Code\CoderCamps\CrazyMath\CrazyMath\bin\Debug\CrazyMath.exe.config
+\\Mac\Home\Documents\Code\CoderCamps\CrazyMath\CrazyMath\bin\Debug\CrazyMath.exe
+\\Mac\Home\Documents\Code\CoderCamps\CrazyMath\CrazyMath\bin\Debug\CrazyMath.pdb
+\\Mac\Home\Documents\Code\CoderCamps\CrazyMath\CrazyMath\obj\Debug\CrazyMath.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Code\CoderCamps\CrazyMath\CrazyMath\obj\Debug\CrazyMath.exe
+\\Mac\Home\Documents\Code\CoderCamps\CrazyMath\CrazyMath\obj\Debug\CrazyMath.pdb
