@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\Code\CoderCamps\CalculatorWithTests\bin\Debug\CalculatorWithTests.exe.config
+\\Mac\Home\Documents\Code\CoderCamps\CalculatorWithTests\bin\Debug\CalculatorWithTests.exe
+\\Mac\Home\Documents\Code\CoderCamps\CalculatorWithTests\bin\Debug\CalculatorWithTests.pdb
+\\Mac\Home\Documents\Code\CoderCamps\CalculatorWithTests\obj\Debug\CalculatorWithTests.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Code\CoderCamps\CalculatorWithTests\obj\Debug\CalculatorWithTests.exe
+\\Mac\Home\Documents\Code\CoderCamps\CalculatorWithTests\obj\Debug\CalculatorWithTests.pdb

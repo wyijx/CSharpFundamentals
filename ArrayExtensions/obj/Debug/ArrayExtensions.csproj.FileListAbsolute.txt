@@ -1,0 +1,8 @@
+\\Mac\Home\Documents\Code\CoderCamps\ArrayExtensions\bin\Debug\ArrayExtensions.exe.config
+\\Mac\Home\Documents\Code\CoderCamps\ArrayExtensions\bin\Debug\ArrayExtensions.exe
+\\Mac\Home\Documents\Code\CoderCamps\ArrayExtensions\bin\Debug\ArrayExtensions.pdb
+\\Mac\Home\Documents\Code\CoderCamps\ArrayExtensions\obj\Debug\ArrayExtensions.exe
+\\Mac\Home\Documents\Code\CoderCamps\ArrayExtensions\obj\Debug\ArrayExtensions.pdb
+Y:\Documents\Code\CoderCamps\CSharpFundamentals\ArrayExtensions\bin\Debug\ArrayExtensions.exe.config
+Y:\Documents\Code\CoderCamps\CSharpFundamentals\ArrayExtensions\obj\Debug\ArrayExtensions.exe
+Y:\Documents\Code\CoderCamps\CSharpFundamentals\ArrayExtensions\obj\Debug\ArrayExtensions.pdb

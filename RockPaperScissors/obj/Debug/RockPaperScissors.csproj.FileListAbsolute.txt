@@ -1,0 +1,7 @@
+\\Mac\Home\Documents\Code\CoderCamps\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+Y:\Documents\Code\CoderCamps\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+Y:\Documents\Code\CoderCamps\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+Y:\Documents\Code\CoderCamps\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+Y:\Documents\Code\CoderCamps\RockPaperScissors\obj\Debug\RockPaperScissors.csprojResolveAssemblyReference.cache
+Y:\Documents\Code\CoderCamps\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+Y:\Documents\Code\CoderCamps\RockPaperScissors\obj\Debug\RockPaperScissors.pdb

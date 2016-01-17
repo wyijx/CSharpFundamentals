@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\Code\CoderCamps\InterfacesKeyboardExample\bin\Debug\InterfacesKeyboardExample.exe.config
+\\Mac\Home\Documents\Code\CoderCamps\InterfacesKeyboardExample\bin\Debug\InterfacesKeyboardExample.exe
+\\Mac\Home\Documents\Code\CoderCamps\InterfacesKeyboardExample\bin\Debug\InterfacesKeyboardExample.pdb
+\\Mac\Home\Documents\Code\CoderCamps\InterfacesKeyboardExample\obj\Debug\InterfacesKeyboardExample.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Code\CoderCamps\InterfacesKeyboardExample\obj\Debug\InterfacesKeyboardExample.exe
+\\Mac\Home\Documents\Code\CoderCamps\InterfacesKeyboardExample\obj\Debug\InterfacesKeyboardExample.pdb

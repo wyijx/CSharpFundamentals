@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\Code\CoderCamps\CSharpInterface\bin\Debug\CSharpInterface.exe.config
+\\Mac\Home\Documents\Code\CoderCamps\CSharpInterface\bin\Debug\CSharpInterface.exe
+\\Mac\Home\Documents\Code\CoderCamps\CSharpInterface\bin\Debug\CSharpInterface.pdb
+\\Mac\Home\Documents\Code\CoderCamps\CSharpInterface\obj\Debug\CSharpInterface.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Code\CoderCamps\CSharpInterface\obj\Debug\CSharpInterface.exe
+\\Mac\Home\Documents\Code\CoderCamps\CSharpInterface\obj\Debug\CSharpInterface.pdb

@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\Code\CoderCamps\ProductLookupWithList\bin\Debug\ProductLookupWithList.exe.config
+\\Mac\Home\Documents\Code\CoderCamps\ProductLookupWithList\bin\Debug\ProductLookupWithList.exe
+\\Mac\Home\Documents\Code\CoderCamps\ProductLookupWithList\bin\Debug\ProductLookupWithList.pdb
+\\Mac\Home\Documents\Code\CoderCamps\ProductLookupWithList\obj\Debug\ProductLookupWithList.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Code\CoderCamps\ProductLookupWithList\obj\Debug\ProductLookupWithList.exe
+\\Mac\Home\Documents\Code\CoderCamps\ProductLookupWithList\obj\Debug\ProductLookupWithList.pdb

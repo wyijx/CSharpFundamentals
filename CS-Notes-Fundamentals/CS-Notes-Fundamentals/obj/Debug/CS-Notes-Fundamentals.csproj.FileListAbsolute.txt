@@ -4,3 +4,6 @@
 \\Mac\Home\Documents\Code\CoderCamps\CS-Notes-Fundamentals\CS-Notes-Fundamentals\obj\Debug\CS-Notes-Fundamentals.csprojResolveAssemblyReference.cache
 \\Mac\Home\Documents\Code\CoderCamps\CS-Notes-Fundamentals\CS-Notes-Fundamentals\obj\Debug\CS-Notes-Fundamentals.exe
 \\Mac\Home\Documents\Code\CoderCamps\CS-Notes-Fundamentals\CS-Notes-Fundamentals\obj\Debug\CS-Notes-Fundamentals.pdb
+Y:\Documents\Code\CoderCamps\CSharpFundamentals\CS-Notes-Fundamentals\CS-Notes-Fundamentals\bin\Debug\CS-Notes-Fundamentals.exe.config
+Y:\Documents\Code\CoderCamps\CSharpFundamentals\CS-Notes-Fundamentals\CS-Notes-Fundamentals\obj\Debug\CS-Notes-Fundamentals.exe
+Y:\Documents\Code\CoderCamps\CSharpFundamentals\CS-Notes-Fundamentals\CS-Notes-Fundamentals\obj\Debug\CS-Notes-Fundamentals.pdb

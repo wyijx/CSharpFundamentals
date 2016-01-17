@@ -4,3 +4,9 @@
 \\Mac\Home\Documents\Code\CoderCamps\ComplexClass\obj\Debug\ComplexClass.csprojResolveAssemblyReference.cache
 \\Mac\Home\Documents\Code\CoderCamps\ComplexClass\obj\Debug\ComplexClass.exe
 \\Mac\Home\Documents\Code\CoderCamps\ComplexClass\obj\Debug\ComplexClass.pdb
+Y:\Documents\Code\CoderCamps\CSharpFundamentals\ComplexClass\bin\Debug\ComplexClass.exe.config
+Y:\Documents\Code\CoderCamps\CSharpFundamentals\ComplexClass\obj\Debug\ComplexClass.exe
+Y:\Documents\Code\CoderCamps\CSharpFundamentals\ComplexClass\obj\Debug\ComplexClass.pdb
+\\Mac\Home\Documents\Code\CoderCamps\CSharpFundamentals\ComplexClass\bin\Debug\ComplexClass.exe.config
+\\Mac\Home\Documents\Code\CoderCamps\CSharpFundamentals\ComplexClass\obj\Debug\ComplexClass.exe
+\\Mac\Home\Documents\Code\CoderCamps\CSharpFundamentals\ComplexClass\obj\Debug\ComplexClass.pdb

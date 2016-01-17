@@ -1,0 +1,7 @@
+\\Mac\Home\Documents\Code\CoderCamps\WordCount\bin\Debug\WordCount.exe.config
+Y:\Documents\Code\CoderCamps\WordCount\bin\Debug\WordCount.exe.config
+Y:\Documents\Code\CoderCamps\WordCount\bin\Debug\WordCount.exe
+Y:\Documents\Code\CoderCamps\WordCount\bin\Debug\WordCount.pdb
+Y:\Documents\Code\CoderCamps\WordCount\obj\Debug\WordCount.csprojResolveAssemblyReference.cache
+Y:\Documents\Code\CoderCamps\WordCount\obj\Debug\WordCount.exe
+Y:\Documents\Code\CoderCamps\WordCount\obj\Debug\WordCount.pdb

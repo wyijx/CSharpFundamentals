@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\Code\CoderCamps\CSharpInheritance\bin\Debug\CSharpInheritance.exe.config
+\\Mac\Home\Documents\Code\CoderCamps\CSharpInheritance\bin\Debug\CSharpInheritance.exe
+\\Mac\Home\Documents\Code\CoderCamps\CSharpInheritance\bin\Debug\CSharpInheritance.pdb
+\\Mac\Home\Documents\Code\CoderCamps\CSharpInheritance\obj\Debug\CSharpInheritance.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Code\CoderCamps\CSharpInheritance\obj\Debug\CSharpInheritance.exe
+\\Mac\Home\Documents\Code\CoderCamps\CSharpInheritance\obj\Debug\CSharpInheritance.pdb

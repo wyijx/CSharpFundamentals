@@ -1,0 +1,8 @@
+\\Mac\Home\Documents\Code\CoderCamps\CatCounterTests\bin\Debug\CatCounterTests.dll
+\\Mac\Home\Documents\Code\CoderCamps\CatCounterTests\bin\Debug\CatCounterTests.pdb
+\\Mac\Home\Documents\Code\CoderCamps\CatCounterTests\bin\Debug\CatCounter.exe
+\\Mac\Home\Documents\Code\CoderCamps\CatCounterTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\Mac\Home\Documents\Code\CoderCamps\CatCounterTests\bin\Debug\CatCounter.pdb
+\\Mac\Home\Documents\Code\CoderCamps\CatCounterTests\obj\Debug\CatCounterTests.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Code\CoderCamps\CatCounterTests\obj\Debug\CatCounterTests.dll
+\\Mac\Home\Documents\Code\CoderCamps\CatCounterTests\obj\Debug\CatCounterTests.pdb

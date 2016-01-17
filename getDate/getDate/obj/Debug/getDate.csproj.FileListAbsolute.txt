@@ -4,3 +4,6 @@
 \\Mac\Home\Documents\Code\CoderCamps\getDate\getDate\obj\Debug\getDate.csprojResolveAssemblyReference.cache
 \\Mac\Home\Documents\Code\CoderCamps\getDate\getDate\obj\Debug\getDate.exe
 \\Mac\Home\Documents\Code\CoderCamps\getDate\getDate\obj\Debug\getDate.pdb
+Y:\Documents\Code\CoderCamps\CSharpFundamentals\getDate\getDate\bin\Debug\getDate.exe.config
+Y:\Documents\Code\CoderCamps\CSharpFundamentals\getDate\getDate\obj\Debug\getDate.exe
+Y:\Documents\Code\CoderCamps\CSharpFundamentals\getDate\getDate\obj\Debug\getDate.pdb

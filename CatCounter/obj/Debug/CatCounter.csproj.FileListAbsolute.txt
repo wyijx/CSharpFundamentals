@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\Code\CoderCamps\CatCounter\bin\Debug\CatCounter.exe.config
+\\Mac\Home\Documents\Code\CoderCamps\CatCounter\bin\Debug\CatCounter.exe
+\\Mac\Home\Documents\Code\CoderCamps\CatCounter\bin\Debug\CatCounter.pdb
+\\Mac\Home\Documents\Code\CoderCamps\CatCounter\obj\Debug\CatCounter.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Code\CoderCamps\CatCounter\obj\Debug\CatCounter.exe
+\\Mac\Home\Documents\Code\CoderCamps\CatCounter\obj\Debug\CatCounter.pdb

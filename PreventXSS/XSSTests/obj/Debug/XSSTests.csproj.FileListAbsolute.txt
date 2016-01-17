@@ -1,0 +1,8 @@
+\\Mac\Home\Documents\Code\CoderCamps\XSSTests\bin\Debug\XSSTests.dll
+\\Mac\Home\Documents\Code\CoderCamps\XSSTests\bin\Debug\XSSTests.pdb
+\\Mac\Home\Documents\Code\CoderCamps\XSSTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\Mac\Home\Documents\Code\CoderCamps\XSSTests\bin\Debug\PreventXSS.exe
+\\Mac\Home\Documents\Code\CoderCamps\XSSTests\bin\Debug\PreventXSS.pdb
+\\Mac\Home\Documents\Code\CoderCamps\XSSTests\obj\Debug\XSSTests.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Code\CoderCamps\XSSTests\obj\Debug\XSSTests.dll
+\\Mac\Home\Documents\Code\CoderCamps\XSSTests\obj\Debug\XSSTests.pdb

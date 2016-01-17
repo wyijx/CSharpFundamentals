@@ -1,0 +1,8 @@
+\\Mac\Home\Documents\Code\CoderCamps\Calculator.Tests\bin\Debug\Calculator.Tests.dll
+\\Mac\Home\Documents\Code\CoderCamps\Calculator.Tests\bin\Debug\Calculator.Tests.pdb
+\\Mac\Home\Documents\Code\CoderCamps\Calculator.Tests\bin\Debug\CalculatorWithTests.exe
+\\Mac\Home\Documents\Code\CoderCamps\Calculator.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\Mac\Home\Documents\Code\CoderCamps\Calculator.Tests\bin\Debug\CalculatorWithTests.pdb
+\\Mac\Home\Documents\Code\CoderCamps\Calculator.Tests\obj\Debug\Calculator.Tests.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Code\CoderCamps\Calculator.Tests\obj\Debug\Calculator.Tests.dll
+\\Mac\Home\Documents\Code\CoderCamps\Calculator.Tests\obj\Debug\Calculator.Tests.pdb

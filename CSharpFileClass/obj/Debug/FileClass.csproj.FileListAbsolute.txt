@@ -1,0 +1,5 @@
+\\Mac\Home\Documents\Code\CoderCamps\FileClass\bin\Debug\FileClass.exe.config
+\\Mac\Home\Documents\Code\CoderCamps\FileClass\bin\Debug\FileClass.exe
+\\Mac\Home\Documents\Code\CoderCamps\FileClass\bin\Debug\FileClass.pdb
+\\Mac\Home\Documents\Code\CoderCamps\FileClass\obj\Debug\FileClass.exe
+\\Mac\Home\Documents\Code\CoderCamps\FileClass\obj\Debug\FileClass.pdb

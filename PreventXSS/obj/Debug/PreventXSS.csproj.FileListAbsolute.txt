@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\Code\CoderCamps\PreventXSS\bin\Debug\PreventXSS.exe.config
+\\Mac\Home\Documents\Code\CoderCamps\PreventXSS\bin\Debug\PreventXSS.exe
+\\Mac\Home\Documents\Code\CoderCamps\PreventXSS\bin\Debug\PreventXSS.pdb
+\\Mac\Home\Documents\Code\CoderCamps\PreventXSS\obj\Debug\PreventXSS.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Code\CoderCamps\PreventXSS\obj\Debug\PreventXSS.exe
+\\Mac\Home\Documents\Code\CoderCamps\PreventXSS\obj\Debug\PreventXSS.pdb

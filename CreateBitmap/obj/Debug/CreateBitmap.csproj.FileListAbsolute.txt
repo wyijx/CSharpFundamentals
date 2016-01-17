@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\Code\CoderCamps\CreateBitmap\bin\Debug\CreateBitmap.exe.config
+\\Mac\Home\Documents\Code\CoderCamps\CreateBitmap\bin\Debug\CreateBitmap.exe
+\\Mac\Home\Documents\Code\CoderCamps\CreateBitmap\bin\Debug\CreateBitmap.pdb
+\\Mac\Home\Documents\Code\CoderCamps\CreateBitmap\obj\Debug\CreateBitmap.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Code\CoderCamps\CreateBitmap\obj\Debug\CreateBitmap.exe
+\\Mac\Home\Documents\Code\CoderCamps\CreateBitmap\obj\Debug\CreateBitmap.pdb
